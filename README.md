@@ -1,1 +1,1 @@
-# React-Query-Params
+# boilerplate-react-functional-public
